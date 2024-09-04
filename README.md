@@ -7,4 +7,4 @@ Assignment3: [Planar data classification with one hidden layer](A3_Planar_data_c
 
 Assignment4: [Building Deep Neural Network: Step by Step](A4_Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 
-Assignment5: [Deep Neural Network for Image Classification: Application](A5_Deep Neural Network - Application.ipynb)
+Assignment5: [Deep Neural Network for Image Classification](https://github.com/Abeer-Rahman/Assigment_NN_and_DL/blob/main/A5_Deep%20Neural%20Network%20-%20Application.ipynb)
