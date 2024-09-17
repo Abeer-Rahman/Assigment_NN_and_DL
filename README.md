@@ -9,6 +9,6 @@ Assignment4: [Building Deep Neural Network: Step by Step](A4_Building_your_Deep_
 
 Assignment5: [Deep Neural Network for Image Classification](https://github.com/Abeer-Rahman/Assigment_NN_and_DL/blob/main/A5_Deep%20Neural%20Network%20-%20Application.ipynb)
 
-Assignment6:[Initialization](A6_Initialization.ipynb)
+Assignment6: [Initialization](A6_Initialization.ipynb)
 
-Assignment7:[Regularization](A7_Regularization.ipynb)
+Assignment7: [Regularization](A7_Regularization.ipynb)
