@@ -12,3 +12,5 @@ Assignment5: [Deep Neural Network for Image Classification](https://github.com/A
 Assignment6: [Initialization](A6_Initialization.ipynb)
 
 Assignment7: [Regularization](A7_Regularization.ipynb)
+
+Assignment8:[Gradient Checking](A8_Gradient_Checking.ipynb)
