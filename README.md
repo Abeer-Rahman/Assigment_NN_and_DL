@@ -16,3 +16,5 @@ Assignment7: [Regularization](A7_Regularization.ipynb)
 Assignment8:[Gradient Checking](A8_Gradient_Checking.ipynb)
 
 Assignment9: [Optimiztion Method](A9_Optimization_methods.ipynb)
+
+Assignment10: [Introduction to Tensorflow](A10_Tensorflow_introduction.ipynb)
